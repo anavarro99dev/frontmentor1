@@ -30,6 +30,7 @@ div#card {
   -webkit-box-shadow: 10px 10px 40px darkgrey;
           box-shadow: 10px 10px 40px darkgrey;
   color: darkgrey;
+  margin: 10% 0px;
 }
 
 div#card img#encabezado {
